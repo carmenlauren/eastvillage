@@ -53,6 +53,11 @@ h3 {
     font-family:"Amatic SC",cursive;
 }
 
+h4 {
+   font-size: 20pt;
+   font-family:"Amatic SC",cursive;
+}
+
 .page-title {
     display:inline-block;
     width:350px;
